@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"PlayerState_Attack_Slash",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"PlayerState_Attack_Slash",
+  "parent":{
+    "name":"Skrypty",
+    "path":"folders/Skrypty.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
